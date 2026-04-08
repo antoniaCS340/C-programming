@@ -1,0 +1,15 @@
+Charalampaki Antonia
+csd5104
+Assignment 2
+
+  Oi synartiseis ms_copy,ms_ncopy, ms_concat, ms_nconcat, ms_compare, ms_ncompare den mporoun na kalesoun
+thn assert gia elegxo an yparxei h apaitoumenh mnhmh, kathws h leitourgia thw periorizetai sto na elegxei
+an o deikths poy dinetai einai NULL
+
+  Oi synartiseiw ms_ncopy, ms_nconcat, ms_ncompare den mporoun me thn voitheia ths assert na elegxoun an
+exei arnitikh timh to n pou dinetai ws orisma arxika epeidh exhgisame thn leitourgeia ths assert panw,
+kai epeita to mhkos einai typou size_t to opoio einai unsigned, ara den exei kai nohma.
+
+Elpizw na akolouthw thn ekfwnhsh, an kai h sygkekrimenh prospatheia einai ths teleutaias stigmhs kathws exasa
+thn arxikh mou ergasia logw dikou mou lathos sta command stous ypologistes ths sxolhs.
+
